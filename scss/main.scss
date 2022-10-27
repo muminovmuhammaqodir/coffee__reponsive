@@ -6,6 +6,10 @@
 
 @import "./variables/variables";
 
+// normalize
+
+@import "./normaliza/normaliza";
+
 // general styles
 
 @import "./glabal/glabals";
@@ -33,3 +37,19 @@
 // footer-section 
 
 @import "./sections/footer";
+
+// about us hero page
+
+@import "./sections/abaoutus";
+
+// commit section
+
+@import "./sections/commit";
+
+// quality section
+
+@import "./sections/quality";
+
+// headquarter section
+
+@import "./sections/headquarter";
